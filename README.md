@@ -5,4 +5,4 @@ This set of supplemental material contains the data associated with our paper ti
 
 Jiahong Shen, Dale Gaines II, Shima Shahabfar, Zhi Li, Dohun Kang, Sean Griesemer, Adolfo Salgado-Casanova, Tzu-chen Liu, Chang-Ti Chou, Yi Xia, and Chris Wolverton
 
-<!-- Arxiv link: link -->
+arXiv link: [https://arxiv.org/abs/2308.07941](https://arxiv.org/abs/2308.07941)
